@@ -1,0 +1,1 @@
+ss://Y2hhY2hhMjAtcG9seTEzMDU6VlBEVEdPNEV5RWw0QnV2aDFoOE9ja3py@185.189.58.195:31664?type=ws&security=tls&host=185.189.58.195&path=/ws&sni=185.189.58.195&alpn=h2,http/1.1&fp=chrome#%40failvpn_bot%20%7C%20DE%20%7C%20SHADOWSOCKS
