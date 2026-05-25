@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjAtcG9seTEzMDU6VlBEVEdPNEV5RWw0QnV2aDFoOE9ja3py@185.189.58.195:31664?type=ws&security=tls&host=185.189.58.195&path=/ws&sni=185.189.58.195&alpn=h2,http/1.1&fp=chrome#%40failvpn_bot%20%7C%20DE%20%7C%20SHADOWSOCKS
+vless://f5c9be64-5951-4190-9c76-2345565938c6@23.137.249.110:37470?type=tcp&encryption=none&security=tls&sni=23.137.249.110&alpn=h2,http/1.1&fp=chrome#%40failvpn_bot%20%7C%20NL%20%7C%20VLESS
